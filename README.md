@@ -1,4 +1,4 @@
-# Bootstrap<br>Dynamic Form Fields Add Remove Multiple Fields
+# Bootstrap<br>Dynamic Form Input Fields<br>Add & Remove Multiple Fields<br>Datepicker Included
 
 Looking for a Bootstrap (4.0.0) Dynamic Form Fields Add &amp; Remove Multiple Fields?
 
